@@ -32,6 +32,6 @@ Welcome to my GitHub profile! I'm Parth Ghinaiya, a seasoned Software Engineer w
 - Email: parthghinaiya477@gmail.com
 - LinkedIn: [parth-ghinaiya](https://www.linkedin.com/in/parth-ghinaiya/)
 - Medium: [parth-ghinaiya](https://parth-ghinaiya.medium.com)
-- Portfolio: [parthghinaiya.me](https://parthghinaiya.me)
+- Portfolio: [parthghinaiya.tech](https://parthghinaiya.tech)
 
 Thank you for exploring my GitHub profile. Let's connect and collaborate on exciting projects! 🚀
